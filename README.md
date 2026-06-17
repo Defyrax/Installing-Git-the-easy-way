@@ -47,3 +47,13 @@ brew install git
 # Installing *Git* on Windows
 
 1. **Download** *Git* from [Git for Windows](https://gitforwindows.org) and **install it**.
+
+
+
+
+
+
+# If you encounter an error you can't resolve, please contact me
+
+Mail:Defyrax@gmail.com
+Discord:Coming soon...
